@@ -10,7 +10,7 @@ Puedes conocer mi [Perfil de Frontend Mentor](https://www.frontendmentor.io/prof
 
 **Para este desafío solo se necesitó HTML y CSS**
 
-
+### Previsualiza la página haciendo click [aquí](https://profile-card-component-puce-five.vercel.app/)
 
 **Todos los días son un gran día para dar un paso más** 🚀
-# profile-card-component
+## profile-card-component
